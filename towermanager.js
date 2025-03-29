@@ -45,7 +45,7 @@ function difficulty_to_name(d) {
   if (d < 1000) {return "Extreme";}
   if (d < 1100) {return "Terrifying";}
   if (d < 1200) {return "Catastrophic";}
-  if (d < 1300) {return "Horrific";}
+  if (d < 1300) {return "oooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo";}
   if (d < 1400) {return "Unreal";}
   if (d < 1500) {return "freaky";}
   return "Nil";
