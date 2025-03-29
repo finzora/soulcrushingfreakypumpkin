@@ -150,8 +150,14 @@ p {
   margin-top: 5px;
   margin-bottom: 5px;
 }
+#Easy {
+  color: #75F347;
+}
 #Medium {
   color: #FFFE00;
+}
+#Remorseless {
+  color: #C800C8;
 }
 #Insane {
   color: #003FFF;
