@@ -6,5 +6,6 @@ all_towers = [
   {"id": 5, "abbr": "HT", "name": "Hell Tower", "diff": 1400, "places": [], "game": "https://www.roblox.com/games/16471863080/unnamed"},
   {"id": 6, "abbr": "Esfjc", "name": "Every sc final jump combined", "diff": 795.5, "places": [], "game": "https://www.roblox.com/games/8887862989/Every-sc-final-jump-combined"},
   {"id": 7, "abbr": "깨월좀하타", "name": "깨면 월홉 좀 하는 타워면 월홉 좀 하는 타워", "diff": 1494, "places": [], "game": "https://www.roblox.com/games/79059018631692/unnamed"},
-  {"id": 8, "abbr": "NDS", "name": "Natural Disaster Survival", "diff": 133, "places": [], "game": "https://www.roblox.com/games/189707/Natural-Disaster-Survival"}
+  {"id": 8, "abbr": "NDS", "name": "Natural Disaster Survival", "diff": 133, "places": [], "game": "https://www.roblox.com/games/189707/Natural-Disaster-Survival"},
+  {"id": 9, "abbr": "CoV", "name": "Citadel of Void", "diff": 1500, "places": [["CSCD", "The Nil Zone"]], "game": "https://www.roblox.com/games/4597361034/Citadel-of-Void-OFFICIAL"}
 ]
