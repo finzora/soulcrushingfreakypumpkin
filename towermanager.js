@@ -39,6 +39,7 @@ function difficulty_to_name(d) {
   if (d < 1200) {return "Catastrophic";}
   if (d < 1300) {return "Horrific";}
   if (d < 1400) {return "Unreal";}
+  if (d < 1500) {return "freaky";}
   return "Nil";
 }
 function difficulty_to_range(d) {
