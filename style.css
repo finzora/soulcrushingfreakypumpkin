@@ -156,6 +156,18 @@ p {
 #Medium {
   color: #FFFE00;
 }
+#Hard {
+  color: #FD7C00;
+}
+#Difficult {
+  color: #FF3232;
+}
+#Challenging {
+  color: #A00000;
+}
+#Intense {
+  color: #19232D;
+}
 #Remorseless {
   color: #C800C8;
 }
