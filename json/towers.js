@@ -9,5 +9,8 @@ all_towers = [
   {"id": 8, "abbr": "NDS", "name": "Natural Disaster Survival", "diff": 133, "places": [], "game": "https://www.roblox.com/games/189707/Natural-Disaster-Survival"},
   {"id": 9, "abbr": "CoV:WN", "name": "Citadel of Void: With Noclip", "diff": 99, "places": [], "game": "https://www.roblox.com/games/4597361034/Citadel-of-Void-OFFICIAL"},
   {"id": 10, "abbr": "ToFO", "name": "Tower of Fractured Obstacles", "diff": 838, "places": [["JToH", "Ring 5"]]},
-  {"id": 11, "abbr": "SO", "name": "Sprunki Obby", "diff": 1300.53, "places": [], "game": "https://www.roblox.com/games/123356501098961/SHOP-UPDATE-Sprunki-Obby"}
+  {"id": 11, "abbr": "SO", "name": "Sprunki Obby", "diff": 1300.53, "places": [], "game": "https://www.roblox.com/games/123356501098961/SHOP-UPDATE-Sprunki-Obby"},
+  {"id": 12, "abbr": "bd:RAG", "name": "better discovery: Review Any Game", "diff": 11.35, "places": [], "game": "https://www.roblox.com/games/15317947079/better-discovery"},
+  {"id": 13, "abbr": "TI", "name": "Tiny Isles", "diff": 1308, "places": [["Adopt Me!", "Obbies"]]},
+  {"id": 14, "abbr": "TG", "name": "Touch Grass", "diff": 11.00, "places": []}
 ]
