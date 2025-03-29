@@ -33,6 +33,13 @@ g("sclp-player-search").addEventListener("keypress", function(event) {
   }
 })
 function difficulty_to_name(d) {
+  if (d < 200) {return "Easy";}
+  if (d < 300) {return "Medium";}
+  if (d < 400) {return "Hard";}
+  if (d < 500) {return "Difficult";}
+  if (d < 600) {return "Challenging";}
+  if (d < 700) {return "Intense";}
+  if (d < 800) {return "Remorseless";}
   if (d < 900) {return "Insane";}
   if (d < 1000) {return "Extreme";}
   if (d < 1100) {return "Terrifying";}
