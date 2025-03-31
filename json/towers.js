@@ -17,5 +17,6 @@ all_towers = [
   {"id": 16, "abbr": "SPoADD", "name": "Salt Pillar of Albuquerque Daredevil Dash", "diff": 799, "places": [["JToH", "Burque, New Mexico"]]},
   {"id": 17, "abbr": "SFO", "name": "SUPER FREAKY OBBY!", "diff": 1432, "places": [], "game": "https://www.roblox.com/games/132140861089523/MEGA-UPD-SUPER-FREAKY-OBBY"},
   {"id": 18, "abbr": "TO", "name": "Teto Obby", "diff": 1346, "places": [], "game": "https://www.roblox.com/games/122771599145884/Teto-Obby"},
-  {"id": 19, "abbr": "ToRP:C", "name": "Tower of Rigid Patterns: Classic", "diff": 1200, "places": [], "game": "https://www.roblox.com/games/17204161716/Tower-of-Rigid-Patterns"}
+  {"id": 19, "abbr": "ToRP:C", "name": "Tower of Rigid Patterns: Classic", "diff": 1200, "places": [], "game": "https://www.roblox.com/games/17204161716/Tower-of-Rigid-Patterns"},
+  {"id": 20, "abbr": "ESCFSC", "name": "Every Soul Crushing Final Stretch Combined", "diff": 800, "places": [], "game": "https://www.roblox.com/games/8535191523/Every-Soul-Crushing-Final-Stretch-Combined"}
 ]
