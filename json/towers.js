@@ -13,5 +13,9 @@ all_towers = [
   {"id": 12, "abbr": "bd:RAG", "name": "better discovery: Review Any Game", "diff": 1135, "places": [], "game": "https://www.roblox.com/games/15317947079/better-discovery"},
   {"id": 13, "abbr": "TI", "name": "Tiny Isles", "diff": 1308, "places": [["Adopt Me!", "Obbies"]]},
   {"id": 14, "abbr": "TG", "name": "Touch Grass", "diff": 1100, "places": []},
-  {"id": 15, "abbr": "TTTT", "name": "Tung Tung Tung Tower", "diff": 1178, "places": [], "game": "https://www.roblox.com/games/70503660100467/Moon-Tung-Tung-Tung-Tower"}
+  {"id": 15, "abbr": "TTTT", "name": "Tung Tung Tung Tower", "diff": 1178, "places": [], "game": "https://www.roblox.com/games/70503660100467/Moon-Tung-Tung-Tung-Tower"},
+  {"id": 16, "abbr": "SPoADD", "name": "Salt Pillar of Albuquerque Daredevil Dash", "diff": 799, "places": [["JToH", "Burque, New Mexico"]]},
+  {"id": 17, "abbr": "SFO", "name": "SUPER FREAKY OBBY!", "diff": 1435, "places": [], "game": "https://www.roblox.com/games/132140861089523/MEGA-UPD-SUPER-FREAKY-OBBY"},
+  {"id": 18, "abbr": "TO", "name": "Teto Obby", "diff": 1346, "places": [], "game": "https://www.roblox.com/games/122771599145884/Teto-Obby"},
+  {"id": 19, "abbr": "ToRP:C", "name": "Tower of Rigid Patterns: Classic", "diff": 1200, "places": [], "game": "https://www.roblox.com/games/17204161716/Tower-of-Rigid-Patterns"}
 ]
